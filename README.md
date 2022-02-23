@@ -26,4 +26,4 @@ npm run docs:publish
 
 ## 问题&建议
 
-如果你有任何问题，可以给我发邮件(zxpscau@163.com)，或者给项目提 [issue](https://github.com/YFang-FE/yfang-utils/issues/new).
+如果你有任何问题，可以给我发邮件(zxpscau@163.com)，或者给项目提 [issue](https://github.com/YFang-FE/yfang-icons/issues/new).
