@@ -9,7 +9,7 @@
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs",
-    "docs:pubilsh": "node index.js"
+    "docs:publish": "node index.js"
   },
   "devDependencies": {
     "gh-pages": "^3.2.3",

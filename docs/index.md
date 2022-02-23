@@ -125,6 +125,6 @@ font-class 是 Unicode 使用方式的一种变种，主要是解决 Unicode 书
 
 ```html
 <svg class="icon" aria-hidden="true">
-  <use xlink:href="#icon-xxx"></use>
+  <use xlink:href="#yf-icons-minus-bold"></use>
 </svg>
 ```
